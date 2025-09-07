@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import '../core/storage/app_storage.dart';
+import 'package:bloom_mama/storage/app_storage.dart';
 import '../main.dart';
 
 class WaterPage extends StatefulWidget {

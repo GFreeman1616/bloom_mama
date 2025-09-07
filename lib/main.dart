@@ -13,6 +13,7 @@ import 'package:bloom_mama/pages/timeline_page.dart';
 import 'package:bloom_mama/pages/weight_page.dart';
 import 'package:bloom_mama/pages/appointments_page.dart';
 import 'package:bloom_mama/pages/notes_page.dart';
+import 'package:bloom_mama/pages/home_page.dart';
 
 const String kAppName = 'Bloom Mama';
 

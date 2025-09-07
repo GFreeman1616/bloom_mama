@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import '../core/storage/app_storage.dart';
+import 'package:bloom_mama/storage/app_storage.dart';
 
 class WeightPage extends StatefulWidget {
   const WeightPage({super.key});
